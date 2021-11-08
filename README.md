@@ -6,7 +6,7 @@
 		</a>
 	</p>
 	<h1>Infotition NPM Boilerplate</h1>
-	<p>Boilerplate for NPm packages with typescript, jest, eslint, prettier support.</p>
+	<p>Boilerplate for NPM packages with typescript, jest, eslint, prettier support.</p>
 	<br>
 	<p>
 		<a href="https://github.com/Infotition/npm-boilerplate/issues" title="github issues">
